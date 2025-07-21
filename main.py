@@ -1,3 +1,4 @@
+# Note: this is sloppy because the point was to learn minimax, and any time spent on not minimax would be waisted time  
 from minimax import ai_v_ai, make_move
 from game import Game, print_board
 
